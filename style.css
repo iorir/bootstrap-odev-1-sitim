@@ -11,3 +11,13 @@ li{
 body{
    background-color: #E9ECEF;
 }
+.logo{
+    border-radius: 100%;
+    width: 15%;
+}
+.cardwidth{
+    width: 13rem;
+}
+.card-image-top{
+    height: 19rem;
+}
